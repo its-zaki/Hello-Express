@@ -4,8 +4,8 @@
   "description": "This is my first program",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "Node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "author": "Muuhammad Zaki",
   "license": "ISC",
