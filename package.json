@@ -1,0 +1,15 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "This is my first program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "Node index.js"
+  },
+  "author": "Muuhammad Zaki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
